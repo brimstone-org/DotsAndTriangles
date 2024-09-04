@@ -1,0 +1,103 @@
+sgpl=Einzelspieler
+mtpl=Mehrspieler
+viz=Themen
+tut=Tutorial
+yousure=Bist du sicher, dass du aufhören willst?
+pause=Pause
+pausemessage=Das Spiel wird angehalten. 
+achiev=Erfolge
+50=Gewinne 50 Spiele!
+100=Gewinne 100 Spiele!
+150=Gewinne 150 Spiele!
+achiev50=Erfolg freigeschaltet: 50 Siege
+achiev100=Erfolg freigeschaltet: 100 Siege
+achiev150=Erfolg freigeschaltet: 150 Siege
+
+lang=Sprachen
+en=Englisch
+fr=Französisch
+de=Deutsch
+it=Italienisch
+es=Spanisch
+pt=Portugiesisch
+
+crdtitle=Credits
+dev=Spiel entwickelt von
+musiccopyright=Musik-Copyright von
+songstitle=Songs
+songs=Ikson - Early Hours\nIkson - Alive\nIkson - Skyline
+ok=Ok
+
+sgpldesc=Spiel gegen Computer
+board=Brett
+diff=Schwere
+level=Level
+
+mpdesc=Gegen andere Leute spielen
+name=Dein Name
+
+settitle=Einstellungen
+themes=Themen/Skins
+classic=Klassisch
+mount=Berge
+gold=Gold
+doodle=Gekritzel
+
+
+timer=Timer
+vic=Sieg!
+youwin=Du hast gewonnen
+cong=Glückwunsch!
+replay=Spiele \nnoch einmal!
+loss=Besiegt!
+betterluck=Viel Glück beim nächsten Mal!
+you=DU!
+
+video=Zu viele Züge rückgängig gemacht. Schau dir ein Video an, um die Funktion "unbegrenzt zurück gehen" freizuschalten.
+
+conn=Verbindung zum Server herstellen
+time=Verstrichene Zeit
+est=Geschätzte Matching Zeit
+lobbyjoin=Lobby beigetreten
+roomjoin=Raum beigetreten
+opDisc=Gegner hat die Verbindung getrennt
+optime=Die Zeit des Gegners ist abgelaufen!
+youtime=Deine Zeit ist abgelaufen!
+youWin=Sieg
+opwins=gewinnt
+opturn=Der Gegner ist dran
+waiting=Warten...
+connecting=Verbindung
+room=Raum erstellen
+waitingforplayer=Warten auf Spieler...
+
+
+noob=Noob
+rook=Neuling
+beg=Anfänger
+int=Mittelstufe
+adv=Fortgeschritten
+mas=Meister
+sure=Bist du sicher?
+
+tap=Tippen!
+gamerules=Spielregeln
+playtut=Lass uns spielen
+info_e0s1=Tippe auf zwei verfügbare Punkte, um sie miteinander zu verbinden und eine Linie zu erstellen. Denke daran, dass diese Linie keine anderen Punkte, Linien oder Dreiecke kreuzen darf.
+info_e0s2=Drei verbundene Linien bilden ein Dreieck - versuche, mehr Dreiecke zu formen als dein Gegner. Der Spieler mit der größten Fläche geformter Dreiecke gewinnt das Spiel. Wenn die Linie ein Dreieck schließt, ist der Spieler erneut an der Reihe.
+endtut=Tutorial abgeschlossen
+congtut=Herzlichen Glückwunsch! Du hast das Tutorial erfolgreich abgeschlossen.
+vsai=Spiel gegen KI
+vshuman=Ich bin bereit! Lass uns gegen Menschen spielen.
+
+
+packwon=WAHNSINN!
+packwontext=DU HAST DAS %packtype%-PAKET ABGESCHLOSSEN!
+gamewon=AUSSERORDENTLICH!
+gamewontext=DU HAST DAS SPIEL GEMEISTERT, INDEM DU ALLE LEVEL ABSOLVIERT HAST!
+choose_lang=Sprache wählen
+choose_color=Farbe wählen
+quit=Verlassen
+quit_game=Spiel verlassen
+play_lbl=Spielen
+mismatched=nicht übereinstimmende

@@ -1,0 +1,101 @@
+sgpl=Jeu en Solo
+mtpl=Multijoueur
+viz=Thèmes
+tut=Tutoriel
+yousure=Voulez-vous vraiment quitter le jeu?
+pause=Pause
+pausemessage=Jeu en pause.  
+achiev=Succès
+50= Remportez 50 parties !
+100= Remportez 100 parties!
+150= Remportez 150 parties!
+achiev50=Succès Obtenu:50 victoires
+achiev100=Succès Obtenu:100 victoires
+achiev150=Succès Obtenu:150 victoires
+
+lang=Langues
+en=Anglais
+fr=Français
+de=Allemand
+it=Italien
+es=Espagnol
+pt=Portugais
+
+crdtitle=Remerciements
+dev=Jeu développé par
+musiccopyright=Droits d’Auteur sur la Musique 
+songstitle=Chansons
+songs=Ikson - Early Hours\nIkson - Alive\nIkson - Skyline
+ok=Ok
+
+sgpldesc=Jouer contre l’ordinateur
+board=Taille du plateau de jeu
+diff=Difficulté
+level=Niveau
+
+mpdesc=Défier d’autres joueurs
+name=Votre nom
+
+settitle=Paramètres
+themes=Thèmes
+classic=Classique
+mount=Montagnes
+gold=Or
+doodle=Dessin
+
+
+timer=Chronomètre
+vic=Victoire!
+youwin=Vous avez gagné !
+cong=Félicitations !
+replay=Jouer\nà Nouveau !
+loss=Perdu!
+betterluck=Bonne chance pour la prochaine fois !
+you=VOUS !
+
+video=Vous avez annulé trop de fois. Regardez une vidéo pour débloquer les annulations sans limite.
+
+conn=Connexion au serveur 
+time=Temps écoulé
+est=Temps de recherche estimé
+lobbyjoin=Salon Rejoint
+roomjoin=Salle Rejointe
+opDisc=Adversaire Déconnecté 
+optime=Le tour de l’adversaire est terminé!
+youtime=Votre tour est terminé!
+youWin=Vous avez gagné
+opwins=L’adversaire a gagné
+opturn=Tour de l’adversaire
+waiting=En attente...
+connecting=Connexion
+room=Création de la salle
+waitingforplayer=En attente d’un joueur...
+
+
+noob=Recrue
+rook=Novice
+beg=Débutant
+int=Intermédiaire
+adv=Avancé
+mas=Maître
+sure=Etes-vous sûr(e) ?
+
+tap=Appuyez !
+gamerules=Règles du Jeu
+playtut=Commençons la partie
+info_e0s1=Appuyez sur deux points disponibles pour les relier et créer une ligne. Attention : cette ligne ne doit pas traverser d’autres points, lignes ou triangles.
+info_e0s2=Trois lignes reliées forment un triangle – essayez de former plus de triangles que votre adversaire. Le joueur qui recouvre la plus grande surface en formant des triangles remporte la partie. Lorsque la ligne complète un triangle, le joueur obtient un autre tour.
+endtut=Tutoriel Terminé
+congtut=Félicitations ! Vous avez terminé le tutoriel.
+vsai=Jouer contre l’IA 
+vshuman=Je suis prêt(e) ! Défions d’autres joueurs !
+
+packwon=FANTASTIQUE!
+packwontext=Vous avez terminé le pack : %packtype%!
+gamewon=Incroyable !
+gamewontext=VOUS AVEZ TERMINÉ TOUS LES NIVEAUX, CE JEU N'A PLUS DE SECRET POUR VOUS !
+choose_lang=Sélection de la langue
+choose_color=Sélection de la couleur
+quit=Quitter
+quit_game=Quitter le Jeu
+play_lbl=Jouer

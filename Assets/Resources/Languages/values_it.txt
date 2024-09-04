@@ -1,0 +1,116 @@
+sgpl=Giocatore Singolo
+mtpl=Multiplayer
+viz=Temi
+tut=Tutorial
+yousure=Sei sicuro di voler uscire?
+pause=Pausa
+pausemessage=Gioco in pausa. 
+achiev=Obiettivi
+50=Vinci 50 partite!
+100=Vinci 100 partite!
+150=Vinci 150 partite!
+achiev50=Obiettivo Sbloccato:50 vincite
+achiev100=Obiettivo Sbloccato:100 vincite
+achiev150=Obiettivo Sbloccato:150 vincite
+
+
+lang=Lingue
+en=Inglese
+fr=Francese
+de=Tedesco
+it=Italiano
+es=Spagnolo
+pt=Portoghese
+
+
+crdtitle=Crediti
+dev=Gioco sviluppato da
+musiccopyright=Copyright Musica di
+songstitle=Brani
+songs=Ikson - Early Hours\nIkson - Alive\nIkson - Skyline
+ok=Ok
+
+
+sgpldesc=Gioca contro computer
+board=Dimensioni tabellone
+diff=Difficoltà
+level=Livello
+
+
+mpdesc=Gioca contro altre persone
+name=Il tuo nome
+
+
+settitle=Impostazioni
+themes=Temi/Skin
+classic=Classico
+mount=Montagne
+gold=Oro
+doodle=Doodle
+
+
+
+
+timer=Timer
+vic=Vittoria!
+youwin=Hai vinto
+cong=Congratulazioni!
+replay=Gioca\nAncora!
+loss=Sconfitto!
+betterluck=Buona fortuna per la prossima volta!
+you=TU!
+
+
+video=Troppe mosse annullate. Guarda un video per sbloccare mosse illimitate.
+
+
+conn=Connessione al server
+time=Tempo trascorso
+est=Stima durata partita
+lobbyjoin=Entrato nella Lobby
+roomjoin=Entrato nella Stanza
+opDisc=Avversario Disconnesso
+optime=Il tempo dell’avversario è scaduto!
+youtime=Il tuo tempo è scaduto!
+youWin=vincita
+opwins=vincite
+opturn=Turno dell’avversario
+waiting=In attesa...
+connecting=In connessione
+room=Creazione Stanza
+waitingforplayer=In attesa del giocatore...
+
+
+
+
+noob=Nabbo
+rook=Esordiente
+beg=Principiante
+int=Intermedio
+adv=Avanzato
+mas=Maestro
+sure=Sei sicuro?
+
+
+tap=Premi!
+gamerules=Regole del gioco
+playtut=Giochiamo
+info_e0s1=Premi su due puntini disponibili per collegarli e creare una linea.Ricordati che la linea non può attraversare altri puntini, linee or triangoli.
+info_e0s2=Tre linee collegate formano un triangolo – cerca di formare più triangoli del tuo avversario.Il giocatore con la più ampia area di triangoli formati vince il gioco.Se la linea chiude un triangolo, allora il giocatore ha un altro turno.
+endtut=Tutorial Completo
+congtut=Congratulazioni! Hai completato con successo il tutorial.
+vsai=Gioca contro AI
+vshuman=Sono pronto! Giochiamo contro umani
+
+
+
+
+packwon=FANTASTICO!
+packwontext=HAI COMPLETATO IL PACCHETTO %packtype% !
+gamewon=ECCEZIONALE!
+gamewontext=SEI DIVENTATO UN ESPERTO DEL GIOCO COMPLETANDO TUTTI I LIVELLI!
+choose_lang=Scegli lingua
+choose_color=Scegli colore
+quit=Esci
+quit_game=Esci dal Gioco
+play_lbl=Gioca

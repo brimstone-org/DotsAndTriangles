@@ -1,0 +1,101 @@
+sgpl=Single Player
+mtpl=Multiplayer
+viz=Themes
+tut=Tutorial
+yousure=Are you sure you want to quit?
+pause=Pause
+pausemessage=Game is paused. 
+achiev=Achievements
+50=Win 50 matches!
+100=Win 100 matches!
+150=Win 150 matches!
+achiev50=Achievement Unlocked:50 wins
+achiev100=Achievement Unlocked:100 wins
+achiev150=Achievement Unlocked:150 wins
+
+lang=Languages
+en=English
+fr=French
+de=German
+it=Italian
+es=Spanish
+pt=Portuguese
+
+crdtitle=Credits
+dev=Game developed by
+musiccopyright=Music Copyright by
+songstitle=Songs
+songs=Ikson - Early Hours\nIkson - Alive\nIkson - Skyline
+ok=Ok
+
+sgpldesc=Play against computer
+board=Board size
+diff=Difficulty
+level=Level
+
+mpdesc=Play against other people
+name=Your name
+
+settitle=Settings
+themes=Themes
+classic=Classic
+mount=Mountains
+gold=Gold
+doodle=Doodle
+
+
+timer=Timer
+vic=Victory!
+youwin=You won!
+cong=Congrats!
+replay=Play\nAgain!
+loss=Defeated!
+betterluck=Good luck next time!
+you=YOU!
+
+video=Too many undo moves. Watch a video to unlock unlimited undos.
+
+conn=Connecting to server
+time=Time passed
+est=Estimated matching time
+lobbyjoin=Lobby Joined
+roomjoin=Room Joined
+opDisc=Oppenent Disconnected
+optime=The opppnent time expired!
+youtime=Your time expired!
+youWin=win
+opwins=wins
+opturn=Opponent's turn
+waiting=Waiting...
+connecting=Connecting
+room=Creating Room
+waitingforplayer=Waiting for player...
+
+
+noob=Noob
+rook=Rookie
+beg=Beginner
+int=Intermediate
+adv=Advanced
+mas=Master
+sure=Are you sure?
+
+tap=Tap!
+gamerules=Game Rules
+playtut=Let's play
+info_e0s1=Tap on two available dots to connect them and create a line.\n\nRemember that line cannot cross other dots, lines or triangles.
+info_e0s2=Three connected lines form a triangle - try to shape more triangles than your opponent.\n\nThe player with the largest area of shaped triangles wins the game.\n\nIf the line closes a triangle, then player takes another turn.
+endtut=Tutorial Complete
+congtut=Congrats! You successfully completed the tutorial.
+vsai=Play vs. AI
+vshuman=I'm ready! Let's play vs. humans
+
+packwon=Fantatic!
+packwontext=You have completed the pack: %packtype%!
+gamewon=Incredible!
+gamewontext=YOU HAVE MASTERED THE GAME BY FINISHING ALL THE LEVELS!
+choose_lang=Choose language
+choose_color=Choose color
+quit=Quit
+quit_game=Quit the game
+play_lbl=Play

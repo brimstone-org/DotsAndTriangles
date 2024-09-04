@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a449070bd50eb41ba291cfcb3bd193, type: 3}
+  m_Name: Doodle
+  m_EditorClassIdentifier: 
+  ThemeFont: {fileID: 12800000, guid: 4e78db742ea4de94288f6fec8a63f251, type: 3}
+  ThemeFontColor: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
+  ThemeType: 3
+  LogoImage: {fileID: 21300000, guid: 4c4c3679aee07e147ad326568fbd3fd1, type: 3}
+  Triangle: {fileID: 21300000, guid: d972632fd328fe04d9eebc9476fbe468, type: 3}
+  BackGround: {fileID: 21300000, guid: 647c40ddf7d97c8459a679febfd7c640, type: 3}
+  SinglePlayerIcon: {fileID: 21300000, guid: 8622e4fb0d84bad429dbd78b9e30503a, type: 3}
+  SinglePlayerBg: {fileID: 21300000, guid: ccfabd2289b8adf4f9a96496089a9983, type: 3}
+  ThemeSelectIcon: {fileID: 21300000, guid: d8a3354d30bf3124fa4002981a6e6fc2, type: 3}
+  ThemeSelectBg: {fileID: 21300000, guid: 00ca8ddac63467c429491fb82f63955c, type: 3}
+  TutorialIcon: {fileID: 21300000, guid: bba9917ff0331384e98478ee516bbcee, type: 3}
+  TutorialBg: {fileID: 21300000, guid: c0e5a10468e44f4498a2e945f51b7a03, type: 3}
+  ButtonShadow: {fileID: 21300000, guid: d972632fd328fe04d9eebc9476fbe468, type: 3}
+  BottomBg: {fileID: 21300000, guid: d972632fd328fe04d9eebc9476fbe468, type: 3}
+  SoundOnIcon: {fileID: 21300000, guid: 55245e614152d8148ae758405668a4e5, type: 3}
+  SoundOffIcon: {fileID: 21300000, guid: b1ad1423c316d444e9d1ad51fcec489a, type: 3}
+  AchievementIcon: {fileID: 21300000, guid: 01cdd586c164bf5419c25dfc4e83c0fc, type: 3}
+  LanguagesIcon: {fileID: 21300000, guid: 239e370b3e59b5141b2dbbc1e4337002, type: 3}
+  CreditsIcon: {fileID: 21300000, guid: 0959869dfc341c942b19efc1596c22d5, type: 3}
+  ContentPanel: {fileID: 21300000, guid: ec3052fbdc0336b4186ec569ec9372a5, type: 3}
+  BarInfoBoardSize: {fileID: 21300000, guid: 0015b0589504b8947b30d43a4ec7a2d4, type: 3}
+  BarInfoBoard: {fileID: 21300000, guid: d5fc273ec1874544bb853c59920926f4, type: 3}
+  BarInfoLevelSelect: {fileID: 21300000, guid: 0015b0589504b8947b30d43a4ec7a2d4, type: 3}
+  LevelInfoBoard: {fileID: 21300000, guid: d5fc273ec1874544bb853c59920926f4, type: 3}
+  BoardBackgroundSlider: {fileID: 21300000, guid: a6a16cfe026f5eb4a93442f66a97fdeb,
+    type: 3}
+  BoardFillSlider: {fileID: 21300000, guid: 063454beb41b6e043a9f9590450f6c7c, type: 3}
+  LevelBackgroundSlider: {fileID: 21300000, guid: a6a16cfe026f5eb4a93442f66a97fdeb,
+    type: 3}
+  LevelFillSlider: {fileID: 21300000, guid: 063454beb41b6e043a9f9590450f6c7c, type: 3}
+  SliderKnob: {fileID: 21300000, guid: 4971676ec46cc4b479c3b1e1fa0d2bd4, type: 3}
+  DotSelected: {fileID: 21300000, guid: 7d812d1c131991743a875aec3e9eef2e, type: 3}
+  DotUnselected: {fileID: 21300000, guid: bb73076c82736c44585d939bde7566c2, type: 3}
+  ButtonClose: {fileID: 21300000, guid: 183505c9abc95e443a6d9bee4c7f163d, type: 3}
+  SinglePlayerPanelStart: {fileID: 21300000, guid: 18055ddfd7b60104ebbcd652c774d176,
+    type: 3}
+  OkButton: {fileID: 21300000, guid: 2d03093e2af7f1c4abe2820dbedc72e8, type: 3}
+  PlayerOneTriangleTexture: {fileID: 2800000, guid: b8a414760ab95634bb0a5c915e1a11cb,
+    type: 3}
+  PlayerTwoTriangleTexture: {fileID: 2800000, guid: 8cac4811874b4e242ad588b2e5d28890,
+    type: 3}
+  PlayerOneColor:
+    serializedVersion: 2
+    rgba: 4281545524
+  PlayerTwoColor:
+    serializedVersion: 2
+    rgba: 4289769648
+  BackgroundGameplay: {fileID: 21300000, guid: afc47d47ab1048c4089cffd33fb5da20, type: 3}
+  GameboardDot: {fileID: 21300000, guid: f86cbb83baba42c42ac9502458b487dd, type: 3}
+  GameboardDotSelected: {fileID: 21300000, guid: 01271ddd73136f3449eb075123ec5ed1,
+    type: 3}
+  HomeButtonGameplay: {fileID: 21300000, guid: 6bfc20c838888c34496290e24e9e0a78, type: 3}
+  UndoButtonGameplay: {fileID: 21300000, guid: 74a336753f9f1a54e9cf3653e2cd6e6e, type: 3}
+  RedoButtonGameplay: {fileID: 21300000, guid: 757026631dea34f4d8028d07dff1725b, type: 3}
+  TimerBg: {fileID: 21300000, guid: 8a10033fd392547458f57d19be5fba17, type: 3}
+  SelectionAura: {fileID: 21300000, guid: 53878d38553246142b0b98bdb72bc2fd, type: 3}
+  ScoreBarBg: {fileID: 21300000, guid: 7fe90b302de1c01488a3b454b896df9d, type: 3}
+  PlayerOne: {fileID: 21300000, guid: 3cec0f70af152294db39078e824f4b93, type: 3}
+  PlayerTwo: {fileID: 21300000, guid: 99f0ff42e5a0f2e4f86cbc3d438b0336, type: 3}
+  PlayerOneProgressBar: {fileID: 21300000, guid: 50511610077c4ab4e86333003ecdfcbf,
+    type: 3}
+  PlayerTwoProgressBar: {fileID: 21300000, guid: 8658c1bd121b62f48b5d876dd8ac6a86,
+    type: 3}
+  CrownCoinLevel: {fileID: 21300000, guid: 48a258c62fcfcaa478fb58890712f53f, type: 3}
+  DotsContainerPanel: {fileID: 21300000, guid: d972632fd328fe04d9eebc9476fbe468, type: 3}
+  OpponentsTurnBg: {fileID: 21300000, guid: 0015b0589504b8947b30d43a4ec7a2d4, type: 3}
+  WinLogo: {fileID: 21300000, guid: 7640667ed8219d844806b2bfcc41cf5d, type: 3}
+  LoseLogo: {fileID: 21300000, guid: aefa64883c7c75f46bd8510233dd1f05, type: 3}
+  PlayerOnebgBar: {fileID: 21300000, guid: a6a16cfe026f5eb4a93442f66a97fdeb, type: 3}
+  PlayerOneFillbar: {fileID: 21300000, guid: 063454beb41b6e043a9f9590450f6c7c, type: 3}
+  PlayerTwobgBar: {fileID: 21300000, guid: a6a16cfe026f5eb4a93442f66a97fdeb, type: 3}
+  PlayerTwoFillbar: {fileID: 21300000, guid: 063454beb41b6e043a9f9590450f6c7c, type: 3}
+  WinPanelReplay: {fileID: 21300000, guid: a66893b662cf42e4cb60ac60f89df798, type: 3}
+  WinPanelReplayBg: {fileID: 21300000, guid: ab16d174bb2b94f43a396ca531f2f463, type: 3}

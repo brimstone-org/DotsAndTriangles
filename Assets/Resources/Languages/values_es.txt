@@ -1,0 +1,117 @@
+sgpl=Un jugador
+mtpl=Multijugador
+viz=Temas
+tut=Tutorial
+yousure=¿Estás seguro de que deseas salir?
+pause=Pausar
+pausemessage=El juego está en pausa. 
+achiev=Logros
+50=¡Gana 50 partidas!
+100=¡Gana 100 partidas!
+150=¡Gana 150 partidas!
+achiev50=Logro desbloqueado: 50 victorias
+achiev100=Logro desbloqueado: 100 victorias
+achiev150=Logro desbloqueado: 150 victorias
+
+
+lang=Idiomas
+en=Inglés
+fr=Francés
+de=Alemán
+it=Italiano
+es=Español
+pt=Portugués
+
+
+crdtitle=Créditos
+dev=Juego desarrollado por
+musiccopyright=Copyright de música
+songstitle=Canciones
+songs=Ikson - Early Hours\nIkson - Alive\nIkson - Skyline
+ok=Aceptar
+
+
+sgpldesc=Jugar contra el dispositivo
+board=Tamaño del tablero
+diff=Dificultad
+level=Nivel
+
+
+mpdesc=Jugar contra otra persona
+name=Tu nombre
+
+
+settitle=Configuración
+themes=Temas
+classic=Clásico
+mount=Montañas
+gold=Oro
+doodle=Garabatear
+
+
+
+
+timer=Cronómetro
+vic=¡Victoria!
+youwin=¡Has ganado!
+cong=¡Enhorabuena!
+replay=¡Jugar\nde nuevo!
+loss=¡Has perdido!
+betterluck=¡Más suerte a la próxima!
+you=¡TÚ!
+
+
+video= Has deshecho demasiados movimientos. Mira un vídeo para  deshacer todos los que quieras.
+
+
+conn=Conectando al servidor
+tiempo=tiempo pasado
+est=Tiempo estimado para encontrar jugador
+lobbyjoin=Te has unido a una sala
+roomjoin=Te has unido a un cuarto
+opDisc=Oponente desconectado
+optime=¡Ha expirado el tiempo de tu oponente!
+youtime=¡Ha expirado tu tiempo!
+youWin=Victoria
+opwins= Victorias
+opturn=Turno del oponente
+waiting=Esperando...
+connecting=Conectando
+room=Creando habitación
+waitingforplayer=Esperando jugador...
+
+
+
+
+noob=Novato
+rook=Novato con talento
+beg=Principiante
+int=Intermedio
+adv=Avanzado
+mas=Maestro
+sure=¿Seguro?
+
+
+tap=¡Tocar!
+gamerules=Reglas del juego
+playtut=Juguemos
+info_e0s1=Toca dos puntos disponibles para conectarlos y crear una línea.\n\nRecuerda que esa línea no puede cruzar otros puntos, líneas o triángulos.
+info_e0s2=Tres líneas conectadas forman un triángulo: intenta formar más triángulos que tu oponente.\n\nEl jugador con el área de triángulos con forma más grande gana la partida.\n\nSi la línea cierra un triángulo, el jugador hace otro turno.
+endtut=Tutorial Completo
+congtut= ¡Felicidades! Has completado con éxito el tutorial.
+vsai=Jugar contra la IA
+vshuman=Todo listo, vamos a jugar contra humanos
+
+
+
+
+packwon=¡IMPRESIONANTE!
+packwontext=¡Has completado el paquete: %packtype%!
+gamewon=¡Excepcional!
+gamewontext=¡HAS DOMINADO EL JUEGO COMPLETANDO TODOS LOS NIVELES!
+choose_lang=Elegir idioma
+choose_color=Elegir color
+quit=Salir
+quit_game=Salir del juego
+mismatch=No coincidentes
+play_lbl=Jugar
